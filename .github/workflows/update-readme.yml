@@ -3,9 +3,6 @@ name: Update README
 on:
   schedule:
     - cron: "*/30 * * * *" # Every 30 minutes
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
