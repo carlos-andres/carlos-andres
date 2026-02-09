@@ -1,0 +1,50 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Every 30 minutes
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  # Recent GitHub activity
+  update-activity:
+    name: Update Recent Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update recent activity"
+          MAX_LINES: 5
+
+  # WakaTime stats
+  update-wakatime:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_UPDATED_DATE: "False"
+          COMMIT_BY_ME: "True"
