@@ -21,6 +21,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0](https://github.com/carlos-andres/nova-html-field/releases/tag/v1.0.0) in [carlos-andres/nova-html-field](https://github.com/carlos-andres/nova-html-field)
 <!--END_SECTION:activity-->
 
 ## Connect
