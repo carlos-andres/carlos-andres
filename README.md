@@ -21,7 +21,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/carlos-andres/nova-html-field/releases/tag/v1.0.0) in [carlos-andres/nova-html-field](https://github.com/carlos-andres/nova-html-field)
+1. 🚀 Published release [DotEdit v0.2.0 (TFM)](https://github.com/carlos-andres/DotEdit/releases/tag/v0.2.0) in [carlos-andres/DotEdit](https://github.com/carlos-andres/DotEdit)
 <!--END_SECTION:activity-->
 
 ## Connect
