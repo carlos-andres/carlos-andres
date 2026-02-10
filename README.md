@@ -16,13 +16,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-andres&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
-
 ![Streak](https://streak-stats.demolab.com?user=carlos-andres&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-andres&layout=compact&theme=transparent&hide_border=true)
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=carlos-andres&theme=transparent&hide_border=true&layout=compact)
 
 ## Recent Activity
 
