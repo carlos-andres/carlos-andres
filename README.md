@@ -21,7 +21,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Angel-Source-Labs/laravel-expressions/pull/5) in [Angel-Source-Labs/laravel-expressions](https://github.com/Angel-Source-Labs/laravel-expressions)
+1. 🎉 Merged PR [#5](https://github.com/Angel-Source-Labs/laravel-spatial/pull/5) in [Angel-Source-Labs/laravel-spatial](https://github.com/Angel-Source-Labs/laravel-spatial)
 <!--END_SECTION:activity-->
 
 ## Connect
