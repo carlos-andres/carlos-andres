@@ -21,7 +21,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DotEdit v0.2.0 (TFM)](https://github.com/carlos-andres/DotEdit/releases/tag/v0.2.0) in [carlos-andres/DotEdit](https://github.com/carlos-andres/DotEdit)
+1. 🎉 Merged PR [#5](https://github.com/Angel-Source-Labs/laravel-expressions/pull/5) in [Angel-Source-Labs/laravel-expressions](https://github.com/Angel-Source-Labs/laravel-expressions)
 <!--END_SECTION:activity-->
 
 ## Connect
