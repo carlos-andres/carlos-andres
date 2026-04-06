@@ -21,7 +21,7 @@ Senior Developer · Contractor/Freelancer · Medellín, CO
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19714](https://github.com/anthropics/claude-code/issues/19714#issuecomment-4139043636) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🚀 Published release [DotEdit v0.3.0](https://github.com/carlos-andres/DotEdit/releases/tag/v0.3.0) in [carlos-andres/DotEdit](https://github.com/carlos-andres/DotEdit)
 <!--END_SECTION:activity-->
 
 ## Connect
