@@ -4,12 +4,13 @@
 
 Medellín, Colombia · Remote &nbsp;·&nbsp; [carlos-andres.pro](https://carlos-andres.pro)
 
-Two decades building for the web, 15+ of them in modern software engineering. I lead the
-integrations team at **TrailerCentral / LeadVenture**, where I own an OEM/dealer inventory-feed
-platform end to end — a Laravel API, distributed PHP workers, Elasticsearch, and
-Terraform/Ansible infrastructure. Equal parts platform owner and hands-on builder: reliability
-re-architectures and framework migrations at work, plus self-shipped developer tools and
-AI-assisted workflows on my own time.
+I build the backend systems and data pipelines that move inventory between manufacturers,
+dealers, and online marketplaces — and I prefer owning whole systems over isolated tasks. Two
+decades building for the web, 15+ of them in modern software engineering: Laravel APIs,
+distributed PHP workers, Elasticsearch, and infrastructure as code. On my own time I ship small,
+sharp developer tools — a native macOS app, browser extensions, terminal and editor tooling —
+built increasingly with AI-assisted workflows. Clean architecture and good tooling are the
+throughline of everything I make.
 
 ## Stack
 
