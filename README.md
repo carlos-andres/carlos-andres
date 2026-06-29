@@ -57,7 +57,7 @@ More in [repositories →](https://github.com/carlos-andres?tab=repositories) �
 ![Streak](https://streak-stats.demolab.com?user=carlos-andres&theme=transparent&hide_border=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7490](https://github.com/anthropics/claude-code/issues/7490#issuecomment-4397130969) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🚀 Published release [Repaste v0.1.0](https://github.com/carlos-andres/repaste/releases/tag/v0.1.0) in [carlos-andres/repaste](https://github.com/carlos-andres/repaste)
 <!--END_SECTION:activity-->
 
 ## Connect
