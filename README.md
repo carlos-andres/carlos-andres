@@ -45,7 +45,6 @@ Things I've shipped on my own time — small, self-contained tools I actually us
 
 - **[DotEdit](https://github.com/carlos-andres/DotEdit)** — native macOS app (SwiftUI) for comparing and syncing `.env` files. &nbsp;`Swift`
 - **[devbar.wezterm](https://github.com/carlos-andres/devbar.wezterm)** — smart WezTerm status bar: git, runtimes, SSH awareness, direnv, clean UI. &nbsp;`Lua`
-- **[workflow-system](https://github.com/carlos-andres/workflow-system)** — a structured development workflow for AI-assisted coding with Claude Code. &nbsp;`Shell`
 - **[CSS Helper](https://github.com/carlos-andres/css-helper-site)** — Chrome/Firefox extension that shows the author CSS that actually *won* the cascade for any element, with source filenames. &nbsp;`HTML`
 - **[nova-html-field](https://github.com/carlos-andres/nova-html-field)** — Laravel Nova 4/5 field for rendering HTML with built-in XSS protection (HTMLPurifier). &nbsp;`PHP`
 - **[intellij-open-iterated-files](https://github.com/carlos-andres/intellij-open-iterated-files)** — IntelliJ plugin that opens all new/modified files in a Git project. &nbsp;`Kotlin`
