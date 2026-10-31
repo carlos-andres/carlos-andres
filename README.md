@@ -56,7 +56,7 @@ More in [repositories →](https://github.com/carlos-andres?tab=repositories) �
 ![Streak](https://streak-stats.demolab.com?user=carlos-andres&theme=transparent&hide_border=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1178](https://github.com/hankinsoft/SQLPro/issues/1178#issuecomment-5936066299) in [hankinsoft/SQLPro](https://github.com/hankinsoft/SQLPro)
+1. 🗣 Commented on [#92698](https://github.com/anthropics/claude-code/issues/92698#issuecomment-6534783889) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ## Connect
