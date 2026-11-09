@@ -56,7 +56,7 @@ More in [repositories →](https://github.com/carlos-andres?tab=repositories) �
 ![Streak](https://streak-stats.demolab.com?user=carlos-andres&theme=transparent&hide_border=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92698](https://github.com/anthropics/claude-code/issues/92698#issuecomment-6534783889) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🚀 Published release [v1.0.1](https://github.com/carlos-andres/nova-html-field/releases/tag/v1.0.1) in [carlos-andres/nova-html-field](https://github.com/carlos-andres/nova-html-field)
 <!--END_SECTION:activity-->
 
 ## Connect
