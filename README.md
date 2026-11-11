@@ -56,7 +56,7 @@ More in [repositories →](https://github.com/carlos-andres?tab=repositories) �
 ![Streak](https://streak-stats.demolab.com?user=carlos-andres&theme=transparent&hide_border=true)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/carlos-andres/nova-html-field/releases/tag/v1.0.1) in [carlos-andres/nova-html-field](https://github.com/carlos-andres/nova-html-field)
+1. 🗣 Commented on [#1](https://github.com/carlos-andres/list-transformation/issues/1#issuecomment-6803207545) in [carlos-andres/list-transformation](https://github.com/carlos-andres/list-transformation)
 <!--END_SECTION:activity-->
 
 ## Connect
